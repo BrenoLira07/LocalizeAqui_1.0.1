@@ -1,0 +1,6 @@
+Paleta de cores:
+- Branco (#ffffff) 
+- Cinza Claro (#F5F5F5)
+- Cinza Escuro (#2E2E2E)
+- Laranja avermelhado (#FF4500)
+
